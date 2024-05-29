@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YL6KfCER2mmnfS8DikgcXmcKyZtuShI8zf9CHXfn6YJYbGkmu5z83Ji2fhlsmd8mS4kP0O9a57mpg9+gSxL8fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Downloads\\Array_Collections_C-CodigoInicial\\Array_Collections_C-CodigoInicial\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.30\\microsoft.netcore.app.host.win-x86.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
